@@ -46,5 +46,3 @@ function getCurrentDate() {
     let fullDate = `${month} ${day}`;
     return fullDate;
 }
-
-console.log(getCurrentDate());
